@@ -1,3 +1,19 @@
+# Pour biens commencer
+# Votre machine
+Avant de voir ce qu'est le shell penchons nous un peu sur la machine soit votre ordinateur. Chaque machine a son propre système d'exploitatation.
+Qui depent de votre machine. le système d'exploitation permet de faire la liaison entre le HardWare et le SoftWare. Le HardWare sont les ressources materielles de votre pc.
+Comme âr exemple votre pocesseur, votre disque dur ou biens votre ram et tous autres composant de votre pc. 
+Le SoftWare sont les applications de votre ordinateur par exemple votre explorateur de fichier, votre moteur de recherche ou biens votre terminal.
+L'OS (accronyme pour système d'exploitatoin) permet de faire transiter les demande de l'utilisateur depuis les aplication au ressource matereil de votre machine grace a des pilotes. Ces  pilotes sont lancer des le demarage de votre machine.
+
+# Les composants d'un OS
+penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous allons manipuler :
+* Le KERNEL
+  * Noyau de l'OS
+  * Gère les fonctions clés de l'OS
+  * Permet la communication directe avec les ressources matérielles
+  * Interface entre le logiciel et le matériel de l'ordinateur
+
 # Defenition shell:
 Un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploitation Unix et de type Unix qui permet d'accéder aux fonctionnalités internes du système d'exploitation.
 Il se présente sous la forme d'une interface de ligne de commande accessible depuis un terminal. Le shell existe en plusieur version : 
