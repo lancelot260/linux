@@ -19,7 +19,7 @@ L'OS (acronyme pour système d'exploitation) permet de faire transiter les deman
   * Interpréteur de commandes
   * Permet de communiquer avec l'OS par l'intermédiaire d'un langage de commandes.
   
-![Schéma du système d'exploitation](./img/architecture.png)
+![Schéma du système d'exploitation](./picture/architecture.png)
 
 # Defenition shell:
 un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploitation Unix et du type Unix qui permet d'accéder aux fonctionnalités internes du système d'exploitation.
