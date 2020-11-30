@@ -9,7 +9,7 @@ Donc de ce côté pas besoin d'installation particulière
   # Windows : 
 sur Windows le shell n'est pas installé de base donc on va devoir contourner le problème. Pour cela on peut passer par plusieurs solutions différentes
 ## Sommaire : 
-1. [Le shell c'est quoi?](shell?.md)
+1. [Le shell c'est quoi?](./shell?.md)
 2. [Vos premiers scripts](./Vos_premiers_scripts.md)
 3. [Les variables](./Les_variables.md)
 4. [Les boucles](./Les_boucles.md)
