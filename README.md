@@ -10,7 +10,7 @@ Donc de ce côté pas besoin d'installation particulière
 sur Windows le shell n'est pas installé de base donc on va devoir contourner le problème. Pour cela on peut passer par plusieurs solutions différentes
 ## Sommaire : 
 1. [Le shell c'est quoi?](https://github.com/lancelot260/linux/blob/main/shell%3F.md)
-2. [Vos premiers scripts](./Vos_premiers_scripts.md)
+2. [Vos premiers scripts](https://github.com/lancelot260/linux/blob/main/script%3F)
 3. [Les variables](./Les_variables.md)
 4. [Les boucles](./Les_boucles.md)
 5. [Pour pousser plus loin](./Pour_pousser_plus_loin.md)
