@@ -13,6 +13,13 @@ penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous all
   * Gère les fonctions clés de l'OS
   * Permet la communication directe avec les ressources matérielles
   * Interface entre le logiciel et le matériel de l'ordinateur
+* Les DRIVERS 
+  * Correspondance au pilotes
+  * Gere le bon foctionnement des peripheriques
+* LE SHELL
+  * Interpréteur de commandes
+  * Permet de communiquer avec l'OS par l'intermédiaire d'un langage de commandes
+![Schéma du système d'exploitation](./img/architecture.png)
 
 # Defenition shell:
 Un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploitation Unix et de type Unix qui permet d'accéder aux fonctionnalités internes du système d'exploitation.
