@@ -18,7 +18,8 @@ penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous all
   * Gere le bon foctionnement des peripheriques
 * LE SHELL
   * Interpréteur de commandes
-  * Permet de communiquer avec l'OS par l'intermédiaire d'un langage de commandes
+  * Permet de communiquer avec l'OS par l'intermédiaire d'un langage de commandes.
+  
 ![Schéma du système d'exploitation](./img/architecture.png)
 
 # Defenition shell:
