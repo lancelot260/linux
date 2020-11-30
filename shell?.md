@@ -1,21 +1,20 @@
 # Pour biens commencer
 # Votre machine
-Avant de voir ce qu'est le shell penchons nous un peu sur la machine soit votre ordinateur. Chaque machine a son propre système d'exploitatation.
-Qui depent de votre machine. le système d'exploitation permet de faire la liaison entre le HardWare et le SoftWare. Le HardWare sont les ressources materielles de votre pc.
-Comme âr exemple votre pocesseur, votre disque dur ou biens votre ram et tous autres composant de votre pc. 
-Le SoftWare sont les applications de votre ordinateur par exemple votre explorateur de fichier, votre moteur de recherche ou biens votre terminal.
-L'OS (accronyme pour système d'exploitatoin) permet de faire transiter les demande de l'utilisateur depuis les aplication au ressource matereil de votre machine grace a des pilotes. Ces  pilotes sont lancer des le demarage de votre machine.
+Avant de voir ce qu'est le shell penchons-nous un peu sur la machine soit votre ordinateur. Chaque machine a son propre système d'exploitation.
+Qui dépeint de votre machine. le système d'exploitation permet de faire la liaison entre le hardware et le software. Les hardwares sont les ressources matérielles de votre Pc.
+Comme âr exemple votre possesseur, votre disque dur ou biens votre RAM et tous autres composants de votre Pc.
+Le software sont les applications de votre ordinateur par exemple votre explorateur de fichier, votre moteur de recherche ou biens votre terminal.
+L'OS (acronyme pour système d'exploitation) permet de faire transiter les demande de l'utilisateur depuis les applications aux ressources matérielles de votre machine grace à des pilotes. Ces pilotes sont lancer dès le démarrage de votre machine.
 
-# Les composants d'un OS
-penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous allons manipuler :
-* Le KERNEL
-  * Noyau de l'OS
-  * Gère les fonctions clés de l'OS
-  * Permet la communication directe avec les ressources matérielles
-  * Interface entre le logiciel et le matériel de l'ordinateur
-* Les DRIVERS 
-  * Correspondance au pilotes
-  * Gere le bon foctionnement des peripheriques
+# Les composants d'un OS penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous allons manipuler :
+* le KERNEL
+* Noyau de l'OS
+* Gère les fonctions clés de l'OS
+* Permets la communication directe avec les ressources matérielles
+* Interface entre le logiciel et le matériel de l'ordinateur
+* Les DRIVERS
+* Correspondance aux pilotes
+* Gere le bon fonctionnement des périphériques
 * LE SHELL
   * Interpréteur de commandes
   * Permet de communiquer avec l'OS par l'intermédiaire d'un langage de commandes.
@@ -23,8 +22,8 @@ penchons un peu sur les composants d'un OS pour mieux comprendre ce que nous all
 ![Schéma du système d'exploitation](./img/architecture.png)
 
 # Defenition shell:
-Un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploitation Unix et de type Unix qui permet d'accéder aux fonctionnalités internes du système d'exploitation.
-Il se présente sous la forme d'une interface de ligne de commande accessible depuis un terminal. Le shell existe en plusieur version : 
+un shell Unix est un interpréteur de commandes destiné aux systèmes d'exploitation Unix et du type Unix qui permet d'accéder aux fonctionnalités internes du système d'exploitation.
+Il se présente sous la forme d'une interface de ligne de commande accessible depuis un terminal. Le shell existe en plusieurs versions :
 - powershell pour windows
 - zsh! pour mac
 - bash
@@ -32,12 +31,12 @@ Il se présente sous la forme d'une interface de ligne de commande accessible de
 - ksh
 Pour n'en citer que quelqu'un.
 # 
-Ces versions de shell different tous des particuliarité propre certaint langage sont quasiment indentique de l'un à l'autre, mais ils ont tous la même utilité.
-Tout les versions de shell sont utiliser pour pouvoir optimiser des taches basique qui prendrait plusiuer ligne de commande. Le shell permet de créer des scripts.
-Les scripts sont des fichiers qui vont effectuer certaine ligne de commande pour vous faire taper moins de ligne de commande et vous rendre la cie plus simple.
-Donc pourquoi utiliser le shell? Le shell permet de lancer des scripts qui effecturons de multitude de ligne de commande anfin d'optimiser votre temps pour vous donner un exemple:
-un script pourait suprimer tous les fichiers temporaires dans votre dossier, compiler vos frichier et lancer l'excutable et finir par le suprimé.
-A la ffin le script vous enverez un message pour vous prevenir comment c'est passer le deroullement de l'operration avec des message d'erreur qui sont modifier au cours du script.
-Ce qui vous permetera de garder un oeil sur le deroulement de l'action facilement.
+Ces versions de shell different tous des particularité propre certains langage sont quasiment identique de l'un à l'autre, mais ils ont tous la même utilité.
+Toutes les versions de shell sont utilisées pour pouvoir optimiser des taches basiques qui prendraient plusieur ligne de commande. Le shell permet de créer des scripts.
+Les scripts sont des fichiers qui vont effectuer certaines lignes de commande pour vous faire taper moins de ligne de commande et vous rendre la vie plus simple.
+Donc pourquoi utiliser le shell? Le shell permet de lancer des scripts qui effectuents de multitude de lignes de commande afin d'optimiser votre temps pour vous donner un exemple:
+un script pourrait supprimer tous les fichiers temporaires dans votre dossier, compiler vos fichiers et lancer l'exécutable et finir par le supprimer.
+À la fin le script vous enverrez un message pour vous prévenir comment c'est passer le  dérouillement de l'opération avec des messages d'erreur qui sont modifiés au cours du script.
+Ce qui vous permettra de garder un oeil sur le déroulement de l'action facilement.
 
 *[Retour au sommaire](./README.md)*
