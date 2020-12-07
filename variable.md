@@ -25,4 +25,7 @@ On utilise le symbole **$** pour preciser que ce sont des variables.
 # Exemple
 - echo : permet d'imprimer l'élement donner en parametre
 ![example](./picture/example_echo.png)
-Echo nous print le parametre donné que se soit un varaible environnementale ou bien une variable créé de tout pièce
+Echo nous print le parametre donné que se soit un varaible environnementale ou bien une variable créé de tout pièce.
+Prenez du temps pour vous familiariser avec les variables d'environnemants et penser a utiliser la commande man si vous avez des doutes ou que vous voulez plus d'information.
+
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/commande.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
