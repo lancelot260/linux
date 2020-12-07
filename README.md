@@ -12,8 +12,8 @@ sur Windows le shell n'est pas installé de base donc on va devoir contourner le
 1. [Le shell c'est quoi?](https://github.com/lancelot260/linux/blob/main/shell%3F.md)
 2. [quelques commandes pour débuter](https://github.com/lancelot260/linux/blob/main/commande.md)
 3. [Les variables](https://github.com/lancelot260/linux/blob/main/variable.md)
-4. [Vos premiers scripts](https://github.com/lancelot260/linux/blob/main/script%3F.md)
-5. [Les boucles](./Les_boucles.md)
+4. [Les boucles](./Les_boucles.md)
+5. [Vos premiers scripts](https://github.com/lancelot260/linux/blob/main/script%3F.md)
 6. [Pour pousser plus loin](./Pour_pousser_plus_loin.md)
 
 #
