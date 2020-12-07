@@ -17,3 +17,4 @@ ls : permet d'afficher tous les élèments ou vous vous trouvez.
 1 pwd : vous affiche votre position actuelle
 2 cd : vous permet d'entre/sortir d'un dossier 
 3 tree : affiche tous les dossiers et les fichiers ou vous vous trouver ansi que les fichier embriquer dans les dossiers
+![tree](./picture/Screenshot_2020-12-07_09-49-18.png)
