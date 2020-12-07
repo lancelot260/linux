@@ -39,4 +39,4 @@ un script pourrait supprimer tous les fichiers temporaires dans votre dossier, c
 À la fin le script vous enverrez un message pour vous prévenir comment c'est passer le  dérouillement de l'opération avec des messages d'erreur qui sont modifiés au cours du script.
 Ce qui vous permettra de garder un oeil sur le déroulement de l'action facilement.
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](./README.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](./README.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/commande.md)*
