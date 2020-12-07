@@ -34,3 +34,5 @@ tout les commandes peuvent être modifier grâce à des flags qui ajoute des par
 !![petite demo](./picture/Screenshot_2020-12-07_10-16-11.png)
 
 garder biens que ce n'est qu'une modification parmis tant d'autre tester les toutes par vous même pour vous familliariser avec ces commandes.
+
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](./https://github.com/lancelot260/linux/blob/main/shell%3F.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/commande.md)*
