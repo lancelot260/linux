@@ -35,4 +35,4 @@ tout les commandes peuvent être modifier grâce à des flags qui ajoute des par
 
 garder biens que ce n'est qu'une modification parmis tant d'autre tester les toutes par vous même pour vous familliariser avec ces commandes.
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](./https://github.com/lancelot260/linux/blob/main/shell%3F.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](./https://github.com/lancelot260/linux/blob/main/shell%3F.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/variable.md)*
