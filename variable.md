@@ -25,3 +25,4 @@ On utilise le symbole **$** pour preciser que ce sont des variables.
 # Exemple
 - echo : permet d'imprimer l'élement donner en parametre
 ![example](./picture/example_echo.png)
+Echo nous print le parametre donné que se soit un varaible environnementale ou bien une variable créé de tout pièce
