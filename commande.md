@@ -11,6 +11,7 @@ nous allons voir certaine commande basique en shell qui vont nous permetre de no
 - rmdir : pertmet de supprimer un dossier. ATTENTION le dossier doit etre vide pour etre supprimer
 - cat : permet d'afficher le contenue dans fichier.
 - ls : permet d'afficher tous les élèments ou vous vous trouvez.
+![tree](./picture/Screenshot_2020-12-07_10-09-47.png)
 
 # naviguer dans vos dossier
 
