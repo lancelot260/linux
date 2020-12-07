@@ -24,6 +24,10 @@ nous allons voir certaine commande basique en shell qui vont nous permetre de no
 
 - ping : permet de tester la connection internet de votre machine
 - man : affiche le manuel de la commande : man (commande)
+- clear : efface les ligne de commande
 
 # et pour les petits curieux
 chercher cheatsheet bash commande sur internet
+
+# pour biens finir
+tout les commandes peuvent être modifier grâce à des flags qui ajoute des particularité a leurs utilisation donc penser toujours à faire un man de la commande que vous venez de decouvrir. un petit example avec ls
