@@ -32,3 +32,5 @@ chercher cheatsheet bash commande sur internet
 # pour biens finir
 tout les commandes peuvent être modifier grâce à des flags qui ajoute des particularité a leurs utilisation donc penser toujours à faire un man de la commande que vous venez de decouvrir. un petit example avec ls
 !![petite demo](./picture/Screenshot_2020-12-07_10-16-11.png)
+
+garder biens que ce n'est qu'une modification parmis tant d'autre tester les toutes par vous même pour vous familliariser avec ces commandes.
