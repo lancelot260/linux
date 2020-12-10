@@ -35,8 +35,8 @@ Voila ce que cela donne une fois executer.
 ## Atention 
 
 Vous pouvez créer ce que on appele des boucle infini soit des boucles qui ne se stoperon jamais. la plus connue est tout simplement :
-`while true; do
-  echo hello
-done`
+`while true; do`
+ ` echo hello`
+`done`
 
 Si jamais vous faites une boucle infinie non voulu fermais votre terminal ou faite la commande **CRT + C**
