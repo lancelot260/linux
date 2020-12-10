@@ -18,3 +18,16 @@ Ici la boucle **for** va créer une variable **i** qui sera intialisé à 0. La 
 
 Et voilà! notre boulce a effectuer dix fois son opperation. Mais passons a l'interieur de notre boucle.
 Comme vous avez pu le constater il y a unbout de code dans notre boucle, on peut le remarquer par son decalement par rapport au reste du code. Ce code est ce que on appele le corp de la boucle. Soit l'utiliter de votre boucle. Le corp de votre boucle sont toutes les choses que votre boucle va effectuer le nombre de fois demander. Dans notre example il affiche simplement le nombre de tours que la boucle effectue.
+
+# Les boucles **while**
+
+la boucle **while** effectura ses instructions tant que la condition que vous poser sera respecter. Cette boucle permet donc d'affectuer une tache sans avoir forcément besoins de connaitre la fin de la liste que nous traitons.
+La boucle while ne prend que une condition comme parametre. Voici un petit example :
+
+![while exemle](./picture/Screenshot_2020-12-10_11-19-30.png)
+
+Dans ce cas la boucle vous demande de taper yes et ne s'erettera pas tant que la condition n'es pas remplise.
+
+![while result](./picture/Screenshot_2020-12-10_11-20-36.png)
+
+Voila ce que cela donne une fois executer.
