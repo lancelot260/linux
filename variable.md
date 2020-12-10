@@ -28,4 +28,4 @@ On utilise le symbole **$** pour preciser que ce sont des variables.
 Echo nous print le parametre donné que ce soit une variable environnementale ou bien une variable créé de tout pièce.
 Prenez du temps pour vous familiariser avec les variables d'environnemants et penser à utiliser la commande man si vous avez des doutes ou que vous voulez plus d'informations.
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/commande.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/commande.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/boucles.md)*
