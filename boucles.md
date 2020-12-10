@@ -31,6 +31,7 @@ Dans ce cas la boucle vous demande de taper yes et ne s'erettera pas tant que la
 ![while result](./picture/Screenshot_2020-12-10_11-20-36.png)
 
 Voila ce que cela donne une fois executer.
+**A savoir** il existe aussi la boucle **until** qui est l'opposé de la boucle **while** soit la boucle continura tant que la condition est fausse.
 
 ## Atention 
 
