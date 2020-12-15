@@ -21,4 +21,4 @@ si vous voulez avoir plusieur cas  vous devez utilise le mot clef **elif** la no
 
 pensez biens a fermer votre boucle de condition avec le mot clef **fi** pour préciser la fin de votre boucle
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)* | *[chapitre suivant](hhttps://github.com/lancelot260/linux/blob/main/script%3F.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
