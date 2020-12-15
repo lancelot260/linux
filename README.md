@@ -13,8 +13,9 @@ Sur Windows le shell n'est pas installé de base donc on va devoir contourner le
 2. [quelques commandes pour débuter](https://github.com/lancelot260/linux/blob/main/commande.md)
 3. [Les variables](https://github.com/lancelot260/linux/blob/main/variable.md)
 4. [Les boucles](https://github.com/lancelot260/linux/blob/main/boucles.md)
-5. [Vos premiers scripts](https://github.com/lancelot260/linux/blob/main/script%3F.md)
-6. [Pour pousser plus loin](./Pour_pousser_plus_loin.md)
+5. [Les conditions](https://github.com/lancelot260/linux/blob/main/condition.md)
+6. [Vos premiers scripts](https://github.com/lancelot260/linux/blob/main/script%3F.md)
+7. [Pour pousser plus loin](./Pour_pousser_plus_loin.md)
 
 #
 . *[sources](https://github.com/lancelot260/linux/blob/main/source.md)*
