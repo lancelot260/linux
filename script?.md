@@ -15,4 +15,8 @@ Les scripts peuvent aussi etre pousser plus loing, certaints scripts peuvent etr
 
 ![find_numb_res](./picture/find_numb_res.png)
 
+Voilà un petit example de script simple à reproduire pour commencer. pour vous montre un exmaple plus complexe et biens plus pousser je me dois de vous montre cet extrai fait en bash :
+[Star Wars](http://asciimation.co.nz/)
+Oui vous ne revez pas certaine personne on refait le premier Star Wars de la trilogie originalle en bash grace a un script. Sur ce prenait des pop-corn et bon vissionage :wink:.
+
 *[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/variablet%3F.md)*
