@@ -5,5 +5,14 @@
 La création d'un srcipt se fait grace à un fichier **.sh** pour prévenir la machine quelle devra traiter du bash.
 On devrat toujours préciser le type de shell utiliser au debut du fichier avec la commande : 
 `#! /bin/<le type shell utilisé>`
-suite a cela vous pouvez utiliser tout type de commande que nous avons vus auparavant ce qui permet de utiliser les boucles et des conditions em même temps 
+suite a cela vous pouvez utiliser tout type de commande que nous avons vus auparavant ce qui permet de utiliser les boucles et des conditions em même temps.
+
+## utilité 
+Les scripts sont untilisé pour automatisé des actions bassiques de tout type. Vu que les script peuvent prendre toutes les commande bash vous pouvez utiliser un script pour rendre une tache automatique allant de la simple gestion de ficheir comme par example : supprimer tous les ficher temporaire, les copies et les excutables que vous créez en lançant votre compilation de fichier. Mais on peut aussi créer un scrpit pertettant de compiler vos fichier pour vous, les scripts peuvent aussi permetrre de créer de nouveau utilisateur et de gerer leur compte. 
+Les scripts peuvent aussi etre pousser plus loing, certaints scripts peuvent etre des jeux à part entiere comme une simple devinette ou veut trouver un nombre au hassard
+
+![find_numbs](./picture/find_numb.png)
+
+![find_numb_res](./picture/find_numb_res.png)
+
 *[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/variablet%3F.md)*
