@@ -24,6 +24,6 @@ Et dites vous que ce n'est que quelques examples parmient un infinité. Alors à
 
 Et voilà pour ce court cour au bash, biens que nous somme rester sur des choses basique vous avec toutes les bases pour laisser cours a vos idées et votre talent. Passer d'exelente fête de fin d'année et 
 
-**MAYBE THE FORCE BE WITH YOU**
+**MAY THE FORCE BE WITH YOU**
 
 *[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)*
