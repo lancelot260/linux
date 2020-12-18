@@ -45,4 +45,4 @@ Vous pouvez créer ce que on appele des boucle infini soit des boucles qui ne se
 
 Si jamais vous faites une boucle infinie non voulu fermais votre terminal ou faite la commande **CRT + C**
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/variable.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/script%3F.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/variable.md)* | *[chapitre suivant](https://github.com/lancelot260/linux/blob/main/condition.md)*
