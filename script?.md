@@ -26,4 +26,4 @@ Et voilà pour ce court cour au bash, biens que nous somme rester sur des choses
 
 **MAY THE FORCE BE WITH YOU**
 
-*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/boucles.md)*
+*[Retour au sommaire](./README.md)* | *[chapitre précédent](https://github.com/lancelot260/linux/blob/main/condition.md)*
